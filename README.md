@@ -16,7 +16,7 @@ The excel files in this repository have large amounts of data containing differe
 
 The solution is written in a VBA code to loop through all the rows of each worksheet in the workbook. 
 
-I have used two loops to come up find the required data for the above problem statement
+I have used two loops to find the required data for the above problem statement
 
 The first loop runs through the data available in each row and checks if the ticker is repeating in the next row. I have used three if conditions to set my criteria
 
